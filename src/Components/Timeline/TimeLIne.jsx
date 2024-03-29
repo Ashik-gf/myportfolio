@@ -1,10 +1,10 @@
-import htmlImg from '../../../public/image/html5-2.svg'
-import cssImg from '../../../public/image/css-3 (1).svg'
+import htmlImg from '../../../public/image/html.svg'
+import cssImg from '../../../public/image/css.svg'
 import { motion } from "framer-motion";
-import tailwind from '../../../public/image/tailwind-css-2.svg'
-import javascript from '../../../public/image/logo-javascript.svg'
-import react from '../../../public/image/react-2 (1).svg'
-import mongoDB from '../../../public/image/mongodb-icon-2.svg'
+import tailwind from '../../../public/image/tailwind.svg'
+import javascript from '../../../public/image/logojavascript.svg'
+import react from '../../../public/image/react.svg'
+import mongoDB from '../../../public/image/mongodb.svg'
 const Timeline = () => {
 
   return (
